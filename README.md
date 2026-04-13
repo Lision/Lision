@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Lision 👋
 
-<!--
-**Lision/Lision** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D5EC4?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/-KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-Here are some ideas to get you started:
+> Former iOS Developer, now a Markdown Engineer.
+> Hardcore-game casual player — Dota 2, Bloodborne, Sekiro: Shadows Die Twice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+
+- 🧠 [octomem](https://github.com/Lision/octomem)
+- 🧐 [issue-insight](https://github.com/Lision/issue-insight)
+
+## Legacy Projects
+
+- ⛓️ [LSAnimator](https://github.com/Lision/LSAnimator) — Easy-to-read and write multi-chain animations in Objective-C & Swift
+- 🌉 [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) — A bridge for sending messages between Swift and JavaScript in WKWebViews
+
+## GitHub Activity
+
+[![Lision's GitHub Activity Graph](https://ghchart.rshah.org/Lision)](https://github.com/Lision)
+
+## Latest Blog Posts
+
+- [Agent Coding 巨变下，重新认识 Coding 这件事儿](https://mp.weixin.qq.com/s/k56O-33gQrRKm57sNIts2Q)
+- [鸿蒙 Next 架构实践：如何避免包体积膨胀？](https://mp.weixin.qq.com/s/r7lkzGJBQ_T0uEkINL6SHQ)
+- [Objective-C 与 Swift 混编工程精准测试探索](https://mp.weixin.qq.com/s/14hmLWNXAh1FKZT5NI5QsQ)
+- [逆向 Mac 应用 Bartender](https://lision.me/mac_re_bartender/)
+- [深入理解 iOS Rendering Process](https://lision.me/ios-rendering-process/)
