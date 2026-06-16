@@ -18,8 +18,7 @@
 
 ## Current Projects
 
-- 🧠 [octomem](https://github.com/Lision/octomem) — A "self-consistent" memory system for AI agents.
-- 🧐 [issue-insight](https://github.com/Lision/issue-insight) — A CLI tool that analyzes GitHub issues to uncover user pain points and prioritize product insights.
+- 🎨 [ever-craft](https://github.com/Lision/ever-craft) - Evercraft is a collection of opinionated coding-agent skills and workflows
 
 ## Legacy Projects
 
