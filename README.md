@@ -8,7 +8,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/-KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=claude&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-4A90D9?style=flat-square&logo=gnubash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macos&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-E34F26?style=flat-square&logo=html5&logoColor=white)
